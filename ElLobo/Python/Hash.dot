@@ -1,0 +1,9 @@
+digraph G{
+nodesep=.05;
+rankdir = LR;
+node [shape=record,width=.1,height=.1];
+node [width = 1.5];
+node0[label = "0"]; 
+node1[label = " 111"]; 
+node2[label = "0"]; 
+}

@@ -1,0 +1,6 @@
+digraph G{
+node [fontname="Arial"];
+110[label= "Nivel 1--Numero 10--110"];
+111[label= "Nivel 1--Numero 11--111"];
+211[label= "Nivel 2--Numero 11--211"];
+110->111->211->110}

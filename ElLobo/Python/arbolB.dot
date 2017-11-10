@@ -1,0 +1,9 @@
+digraph G{
+node [shape = record];
+rankdir = TD;
+activo_marco [label= "<r0> | <cl1>marco / 32478 / 20171117 &#92; | <r1> "];
+activo_marco:r0 -> activo_david;
+activo_marco:r1 -> activo_galindo;
+activo_david [label= "<r0> | <cl1>david / 02 / 20160112 &#92; | <r1> | <cl2>david / 01 / 20160113 &#92; | <r2> "];
+activo_galindo [label= "<r0> | <cl1>galindo / 16548 / 20171117 &#92; | <r1> | <cl2>david / 56489 / 20171117 &#92; | <r2> "];
+}

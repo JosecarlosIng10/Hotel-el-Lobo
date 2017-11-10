@@ -1,0 +1,9 @@
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\bin\Debug\Reportes.exe.config
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\bin\Debug\Reportes.exe
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\bin\Debug\Reportes.pdb
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.Form1.resources
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.exe
+C:\Users\equipo\AndroidStudioProjects\ElLobo\Reportes\Reportes\Reportes\obj\Debug\Reportes.pdb

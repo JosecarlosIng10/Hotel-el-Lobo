@@ -1,0 +1,24 @@
+<usuarios> 
+	<usuario> 
+		<nombre>marco</nombre> 
+		<password>1234</password> 
+		<direccion>12 calle</direccion> 
+		<telefono>45647896</telefono> 
+		<edad>21</edad> 
+	</usuario> 
+	<usuario> 
+		<nombre>rene</nombre> 
+		<password>1234</password> 
+		<direccion>6ta avenida</direccion> 
+		<telefono>45647896</telefono> 
+		<edad>23</edad> 
+	</usuario> 
+	<usuario> 
+		<nombre>edgar</nombre> 
+		<password>1234</password> 
+		<direccion>13 calle</direccion> 
+		<telefono>45647896</telefono> 
+		<edad>22</edad> 
+	</usuario> 
+</usuarios> 
+ 

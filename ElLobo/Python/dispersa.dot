@@ -1,0 +1,44 @@
+digraph structs {
+autosize=false;size="10,10!"rankdir=R; 
+graph [splines = ortho];
+node [shape = box];
+edge [dir = none];
+{rank=same 
+matriz[label="Matriz"]; 
+enero[label="enero"];
+noviembre[label="noviembre"];
+matriz->enero->noviembre[dir=R];
+ noviembre->enero->matriz[dir=R];
+}{ 
+ rankdir=LR;
+2016[label="2016"];
+2017[label="2017"];
+matriz->2016->2017[dir=LR];
+ 2017->2016->matriz[dir=LR];
+}{
+rank=same
+2016113[label="13"];
+2016->2016113[dir=R];
+2016113->2016[dir=R];
+}{
+rank=same
+20171117[label="17"];
+2017->20171117[dir=R];
+20171117->2017[dir=R];
+}
+ { 
+130[label="12"];
+
+2016113->130;
+
+}{
+rankdir=LR
+2016113[label="13"];
+enero->2016113[dir=LR];
+2016113->enero[dir=LR];
+}{
+rankdir=LR
+20171117[label="17"];
+noviembre->20171117[dir=LR];
+20171117->noviembre[dir=LR];
+}}

@@ -1,0 +1,11 @@
+<habitaciones> 
+	<habitacion> 
+		<nivel>2</nivel> 
+		<numero>65</numero> 
+	</habitacion> 
+	<habitacion> 
+		<nivel>5</nivel> 
+		<numero>20</numero> 
+	</habitacion> 
+</habitaciones> 
+ 

@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="ElLobo.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <div id ="cabecera">
+
+            <div id="contenidocabecera">
+
+            </div>
+
+            <div id="barracabecera">
+
+               
+                    <ul>
+
+                        <li>Pagina Principal </li>
+                        <li><a href="Login.aspx">Iniciar Sesion</a></li>
+                        <li><a href="Registrarse.aspx">Registrarse</a></li>
+                        <li><a href="Habitaciones.aspx">Habitaciones</a></li>
+                        <li><a href="Reservaciones.aspx">Reservaciones</a></li>
+                        <li><a href="EliminarCosto.aspx">Opciones</a></li>    
+                        
+                    </ul> 
+               
+               
+
+            </div>
+
+            <div id="titulo">
+               
+                <h1>Hotel El Lobo</h1>
+                <h2>Bienvenidos</h2>
+
+            </div>
+
+        </div>
+
+        <div id="bajo">
+            <div id="columnizq">
+                 <asp:ContentPlaceHolder ID="contenidoContextual" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+            </div>
+
+             <div id="columncentro">
+
+                      <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+        
+                    
+        
+                     </asp:ContentPlaceHolder>
+
+           
+
+            </div>
+
+             <div id="columnder">
+
+            </div>
+
+             <div id="pie">h
+                 <span>Web By Jose</span>
+            </div>
+
+            
+        </div>
+       
+    </div>
+    </form>
+</body>
+</html>

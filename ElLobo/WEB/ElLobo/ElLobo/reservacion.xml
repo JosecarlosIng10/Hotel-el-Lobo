@@ -1,0 +1,45 @@
+<reservaciones> 
+	<reservacion> 
+		<usuario>marco</usuario> 
+		<tarjeta>32478</tarjeta> 
+		<habitacion>107</habitacion> 
+		<extras> 
+			<extra>Netflix</extra> 
+			<extra>Limpieza</extra> 
+			<extra>Cable</extra> 
+			<extra>Internet? ?alta? ?velocidad</extra> 
+			<extra>Extra? ?hielo</extra> 
+		</extras> 
+		<fechaIngreso>20171117</fechaIngreso> 
+		<fechaSalida>20171215</fechaSalida> 
+	</reservacion> 
+	<reservacion> 
+		<usuario>galindo</usuario> 
+		<tarjeta>16548</tarjeta> 
+		<habitacion>105</habitacion> 
+		<extras> 
+			<extra>Netflix</extra> 
+			<extra>Limpieza</extra> 	
+		</extras> 
+		<fechaIngreso>20171117</fechaIngreso> 
+		<fechaSalida>20200214</fechaSalida> 
+	</reservacion> 
+	<reservacion> 
+		<usuario>david</usuario> 
+		<tarjeta>56489</tarjeta> 
+		<habitacion>305</habitacion> 
+		<fechaIngreso>20171117</fechaIngreso> 
+	</reservacion>
+	<reservacion> 
+		<usuario>david</usuario> 
+		<tarjeta>01</tarjeta> 
+		<habitacion>110</habitacion> 
+		<fechaIngreso>20160113</fechaIngreso> 
+	</reservacion> 
+	<reservacion> 
+		<usuario>david</usuario> 
+		<tarjeta>02</tarjeta> 
+		<habitacion>111</habitacion> 
+		<fechaIngreso>20160112</fechaIngreso> 
+	</reservacion>
+</reservaciones> 

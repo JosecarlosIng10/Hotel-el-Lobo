@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="Opciones.master.cs" Inherits="ElLobo.Opciones" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="contenidoContextual" runat="server">
+    <ul>
+                        <li><a href="/EliminarCosto.aspx" >Eliminar Costo </a></li>
+         <p> &nbsp;</p>
+                        <li><a href="/ModificarCosto.aspx" >Modificar Costo </a></li>
+         <p> &nbsp;</p>
+                        <li><a href="/EliminarUsuario.aspx">Eliminar Usuario</a></li>
+        <p> &nbsp;</p>
+                        <li><a href="/ModificarUsuario.aspx">Modificar Usuario</a></li>
+       </ul>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="contenidoPrincipal" runat="server">
+      <asp:ContentPlaceHolder ID="contenidoPrincipal" runat="server">
+        
+                    
+        
+                     </asp:ContentPlaceHolder>
+</asp:Content>
+
